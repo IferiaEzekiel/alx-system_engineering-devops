@@ -1,2 +1,3 @@
 #!/bin/bash
+mkdir ls_cwd_content
 ls -la > ls_cwd_content
